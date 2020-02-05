@@ -12,6 +12,8 @@ Read pdf online: https://github.com/CREATE-knowledge-planning/Local-planning-for
 
 PPT source file: https://github.com/CREATE-knowledge-planning/Local-planning-for-decentralized-decision-making/blob/master/Zhaoliang_20200129.pptx
 
-Please update your source file to this directory after you comment it and update diary log to this README file like this:
+Please update your source file to this directory after you comment it.
+
+#### Log:
 
 1 st update: Zhaoliang 02/04/2020
