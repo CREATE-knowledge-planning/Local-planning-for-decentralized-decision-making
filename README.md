@@ -1,8 +1,5 @@
 # Project-Overview
 
-### Project proposal:
-
-
 ### Introduction to DARPA project in LEMUR lab meeting: -Zhaoliang
 The following file is what I presented in LUMUR lab meeting last week. 
 
